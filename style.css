@@ -25,11 +25,12 @@ em strong {
 .onde {
     background-color: aqua 
     padding: 20px;
+    display: inline-block;
+    vertical-align: top;
 }
 
 ul{ 
-    display: inline-block;
-    vertical-align: top;
+   
     width: 20%;
     margin-right: 15%;
 }
