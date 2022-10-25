@@ -22,6 +22,23 @@ em strong {
     color: #9c0bdf;
 }
 
+.onde {
+    background-color: aqua 
+    padding: 20px;
+}
+
+ul{ 
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
 .itens { font-style: italic;
+
+}
+
+.imagemnatureza { 
+    width: 50%;
+
 
 }
