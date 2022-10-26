@@ -1,7 +1,11 @@
 body {
-  background-color: #fd93ec;
+  background-color: #e3c4f0;
 }
 
+.cabecalho {
+    display: inline-block
+    vertical-align: top
+}
 #banner {
   width: 100;
 }
@@ -23,10 +27,13 @@ em strong {
 }
 
 .onde {
-  background-color: aqua;
-  padding: 20px;
+  margin: auto;
+  border: 3px solid #9c0bdf; 
+  background-color: rgb(207, 132, 236);
+  padding: 30px;
   display: inline-block;
   vertical-align: top;
+
 }
 
 ul {
@@ -38,5 +45,9 @@ ul {
 }
 
 .natureza {
-  width: 10%;
+  width: 20%;
+  position: absolute;
+  left: 350px;
+  padding: 10px;
+  vertical-align: top;
 }
