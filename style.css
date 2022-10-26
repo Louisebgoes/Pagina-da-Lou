@@ -1,45 +1,42 @@
 body {
-    background: #f0beec
+  background-color: #fd93ec;
 }
 
 #banner {
-    width: 100;
+  width: 100;
 }
 
 h1 {
-    text-align: center
+  text-align: center;
 }
 
 p {
-    text-align: center;
+  text-align: center;
 }
 
 #missao {
-    font-size: 20px
+  font-size: 20px;
 }
 
 em strong {
-    color: #9c0bdf;
+  color: #9c0bdf;
 }
 
 .onde {
-    background-color: aqua 
-    padding: 20px;
-    display: inline-block;
-    vertical-align: top;
+  background-color: aqua;
+  padding: 20px;
+  display: inline-block;
+  vertical-align: top;
 }
 
-ul{ 
-   
-    width: 20%;
-    margin-right: 15%;
+ul {
+  width: 20%;
+  margin-right: 15%;
 }
-.itens { font-style: italic;
-
+.itens {
+  font-style: italic;
 }
 
-.natureza { 
-    width: 50%;
-
-
+.natureza {
+  width: 10%;
 }
