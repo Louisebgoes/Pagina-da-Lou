@@ -8,6 +8,11 @@ body {
     justify-content: flex-end;
 }
 
+.lista{
+  display: flex;
+  justify-items: end;
+}
+
 .item{
   display: flex;
   justify-content: space-around;
