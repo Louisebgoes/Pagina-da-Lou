@@ -8,7 +8,7 @@ body {
 }
 
 .item{
-  display: inline;
+  display: flexbox;
 }
 #banner {
   width: 100;
