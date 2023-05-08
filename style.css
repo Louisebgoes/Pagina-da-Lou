@@ -8,8 +8,10 @@ body {
 }
 
 .item{
-  display: flexbox;
+  display: flex;
+  justify-content: space-around;
 }
+
 #banner {
   width: 100;
 }
