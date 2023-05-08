@@ -1,10 +1,14 @@
 body {
-  background-color: red;
+  background-color: rgb(197, 165, 227);
 }
 
 .cabecalho {
     display: flex;
     vertical-align: top
+}
+
+.itens{
+  display: inline;
 }
 #banner {
   width: 100;
