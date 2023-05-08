@@ -1,9 +1,9 @@
 body {
-  background-color: #e3c4f0;
+  background-color: red;
 }
 
 .cabecalho {
-    display: inline-block
+    display: flex;
     vertical-align: top
 }
 #banner {
