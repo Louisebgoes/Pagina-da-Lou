@@ -4,7 +4,8 @@ body {
 
 .cabecalho {
     display: flex;
-    vertical-align: top
+    vertical-align: top;
+    justify-content: flex-end;
 }
 
 .item{
